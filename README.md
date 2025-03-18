@@ -22,7 +22,7 @@ Hi everyone! This is Elle. I am a Front-End developer passionate about crafting 
 
 🛠️ Backend & Databases:
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 
 🎨 Design & Prototyping Tools:
@@ -35,6 +35,8 @@ Hi everyone! This is Elle. I am a Front-End developer passionate about crafting 
 
   
 <!-- 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 # 📊 GitHub Stats:
 ![Elle Famkar](https://github-readme-stats.vercel.app/api?username=Elle Famkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Elle Famkar](https://nirzak-streak-stats.vercel.app/?user=Elle Famkar&theme=dark&hide_border=false)<br/>
